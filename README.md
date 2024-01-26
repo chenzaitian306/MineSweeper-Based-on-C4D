@@ -1,5 +1,6 @@
 # MineSweeper-Based-on-C4D
-![Uploading 7b357f17999d2fca490deac6f0a0c306_1705843819127-minesweeper.gif…]()
+![7b357f17999d2fca490deac6f0a0c306_1705843819127-minesweeper](https://github.com/chenzaitian306/MineSweeper-Based-on-C4D/assets/108776539/d2f57a56-f6f9-41f8-80e8-e0d5d186669f)
+
 
 ## 脚本安装
 + 将MineSweeper文件夹拷贝C4D安装目录"D:\Program Files\Maxon Cinema 4D 2023\plugins下,重新启动C4D（请根据个人安装位置放置）
